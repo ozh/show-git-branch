@@ -6,7 +6,7 @@ Show in page footers what Git branch you are currently on.
 
 # How to
 
-* In `/user/plugins`, create a new folder named `force-lowercase`
+* In `/user/plugins`, create a new folder named `show-git-branch`
 * Drop these files in that directory
 * Go to the Plugins administration page and activate the plugin 
 * Add `define( 'YOURLS_DEBUG', true );` to your `config.php`

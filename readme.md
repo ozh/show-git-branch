@@ -4,6 +4,8 @@ Plugin for YOURLS 1.6+: Show Git Branch
 
 Show in page footers what Git branch you are currently on.
 
+![sshot](https://raw.github.com/ozh/show-git-branch/sshots/footer.png)
+
 # How to
 
 * In `/user/plugins`, create a new folder named `show-git-branch`
